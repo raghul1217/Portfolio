@@ -1,0 +1,140 @@
+*{
+    font-family: 'poppins', sans-serif;
+}
+
+.navbar-toggler-icon {
+    color: #0ef;
+}
+
+.btn{
+    background-color: #0ef;
+    color: #0ef;
+    font-size: 15px;
+}
+
+.nav-link{
+    color: #0ef;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+}
+
+.icon{
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    margin: 10px;
+    margin-bottom: 20px;
+    color: #0ef;
+    background-color: #22282f;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px #0ef;
+}
+
+.icon:hover{
+    box-shadow: 0 0 10px 5px #0ef;
+}
+
+.icon a{
+    text-decoration: none;
+    color: inherit; 
+  }
+
+ul li:hover{
+    background-color: #0ef;
+    border-radius: 10px;
+}
+
+.banner{
+    background-color: #1b1f24;
+    padding: 120px 0px;
+    font-family: 'poppins', sans-serif;
+}
+
+#name{
+    color: #0ef;
+    font-weight: 700;
+}
+
+.head1{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.banner-btn{
+    border: none;
+    padding: 7px 10px;
+    background-color: #22282f;
+    color: #0ef;
+    border-radius: 10px;
+    margin: 20px 0px;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 5px 2px #0ef;
+    font-size: 20px;
+}
+
+.banner-btn:hover{
+    box-shadow: 0px 0px 10px 5px #0ef;
+}
+
+.para1{
+    font-size: 25px;
+}
+
+.para2{
+    font-size: 22px;
+    font-style: italic;
+}
+
+.profile{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    box-shadow: 0 2px 25px 5px #0ef;
+    
+}
+
+.profile:hover{
+    box-shadow: 0 2px 20px 10px #0ef;
+}
+
+#shadow{
+    box-shadow: 2px 2px 5px #0ef;
+}
+
+.bg1{
+    background-color: #1b1f24;
+}
+
+.bg2{
+    background-color: #22282f;
+}
+
+.form-label{
+    color: #0ef;
+    font-size: 20px;
+}
+
+.form-control{
+    box-shadow: 2px 2px 2px #0ef;
+}
+
+.button{
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #0ef;
+    background-color: #1b1f24;
+    box-shadow: 0px 0px 5px 2px #0ef;
+}
+
+.button:hover{
+    box-shadow: 0px 0px 10px 5px #0ef;
+}
+
