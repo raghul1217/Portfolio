@@ -108,6 +108,10 @@ ul li:hover{
     box-shadow: 2px 2px 5px #0ef;
 }
 
+#shadow:hover{
+    box-shadow: 0px 0px 10px 5px #0ef;
+}
+
 .bg1{
     background-color: #1b1f24;
 }
